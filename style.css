@@ -3,4 +3,6 @@ h2{color:#00e5ff;borde-bottom: 1px solid#00ff00}
 a;hove{color:#00ff00;text-decoration:underline;}
 .clave{color:#00e5ff;text-transform:uppercase;}
 img{max-width:100%;height:auto;border:2px solid#00ff00;border-radius:8px;display:block}
-
+*{
+  background-color: #941C1C;
+}
